@@ -30,11 +30,9 @@ Software and Hardware List
 
 
 ##Related Haskell Products:
-[Haskell Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783286331)
-
-[Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781783988723)
-
-[Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781784394707)
+*[Haskell Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783286331)
+*[Haskell Design Patterns](https://www.packtpub.com/application-development/haskell-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781783988723)
+*[Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781784394707)
 
 
 
