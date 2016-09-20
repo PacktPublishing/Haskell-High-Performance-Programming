@@ -2,7 +2,7 @@
 This is the code repository for [Haskell High Performance Programming](https://www.packtpub.com/application-development/haskell-high-performance-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786464217) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
-All of the code is organized into folders. Each folder starts with number followed by the application name. For example, Chapter 02.
+All of the code is organized into folders. Each folder starts with number followed by the application name. For example, Chapter02.
 
 You will see code something similler to the following:
 
@@ -19,12 +19,13 @@ goGeneral n x = goGeneral (n-1) (next x x)
 
 ```
 
-Software and Hardware
-| Chapter  | Software required | OS required |
-| ------------- | ------------- | -----------|
-| 1 to 14  | GHC >= 7.6  | Windows |
-| 4  | Haskell  Stack tool  | Windows |
-| 11  | CUDA-enabled system  | Windows |
+Software and Hardware List
+
+| Chapter  | Software required   | OS required |
+| -------- | ------------------- | ------------|
+| 1 to 14  | GHC >= 7.6          | Windows     |
+|    4     | Haskell  Stack tool | Windows     |
+|   11     | CUDA-enabled system | Windows     |
 
 
 
