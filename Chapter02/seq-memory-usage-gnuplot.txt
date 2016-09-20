@@ -1,0 +1,13 @@
+set datafile separator ","
+set autoscale fix
+set key inside right center
+
+set xtics 0,10,120
+set xtics add ("4" 4)
+
+set title "Performance with different buffer sizes"
+set ytics 0,0.5,4.5
+set yrange [0:3.6]
+set arrow from 4, graph 0 to 4, graph 1 nohead
+plot 'seq-memory-usage.csv' using 1:2 title "Heap usage (gigabytes)" with lines
+
