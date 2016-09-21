@@ -4,7 +4,7 @@ This is the code repository for [Haskell High Performance Programming](https://w
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with number followed by the application name. For example, Chapter02.
 
-You will see code something similler to the following:
+You will see code something similar to the following:
 
 ```
 class Some a where
