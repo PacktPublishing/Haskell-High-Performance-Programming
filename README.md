@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05398?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Haskell High Performance Programming
 This is the code repository for [Haskell High Performance Programming](https://www.packtpub.com/application-development/haskell-high-performance-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786464217) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
